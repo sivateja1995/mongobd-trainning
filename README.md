@@ -6,3 +6,7 @@ this repo is for the trainning of the mongodb. regualarly updating for the asses
 4. spacitial analysis
 5. best practices.
 6. advanced problems solving. 
+
+
+author: sivateja1034@outlook.com
+
